@@ -124,7 +124,7 @@ void printLinkedList(node_t* head){
 }
 
 int main(){
-    printf("Initiated doubly linked list\n");
+    printf("Initiated singly linked list\n");
     node_t* headNode;
     while (1){
         int select;
