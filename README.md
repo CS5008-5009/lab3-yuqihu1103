@@ -2,6 +2,9 @@
 # Lab3
 output screenshots:
 
+Running lab3_part_1 code on Khoury cloud:
+![lab3_part1_screenshot1](https://github.com/CS5008-5009/lab3-yuqihu1103/assets/133090163/24e34523-d9c7-4b0d-9d3a-095486a73536)
+![lab3_part1_screenshot2](https://github.com/CS5008-5009/lab3-yuqihu1103/assets/133090163/72dd1113-134a-4e4f-a5c8-2b2828955602)
 Running lab3_part_2 code on Khoury cloud:
 ![lab3_partb_screenshot1](https://github.com/CS5008-5009/lab3-yuqihu1103/assets/133090163/b8f81ec8-19ef-4953-9923-966922bc2e3e)
 ![lab3_partb_screenshot2](https://github.com/CS5008-5009/lab3-yuqihu1103/assets/133090163/fc8c6811-d9c7-4850-acd3-d230d45d51b2)
