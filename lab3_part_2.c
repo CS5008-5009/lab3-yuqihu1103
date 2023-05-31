@@ -76,6 +76,10 @@ node_t* deleteHead(node_t* head){
 }
 
 node_t* deleteMiddle(int value, node_t* head){
+    if (head == NULL){
+        printf("The linked list is empty");
+        return NULL;
+    }
     node_t* temp = head;
     while(temp->next != NULL && temp->next->data != value){
         temp = temp->next;
